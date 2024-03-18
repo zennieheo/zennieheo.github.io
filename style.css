@@ -1,0 +1,32 @@
+h1 {
+    background-color:orange;
+    color: white
+}
+
+
+<div id="big-contalner">
+big-contalner {
+    border: 6px solid orange:
+}
+
+
+a:link {color: orange;}
+
+a:visited {
+    color: gray;
+}
+
+
+#btn_submit {
+    background-color: orange;
+    color: white;
+    height: 3cm;
+    width: 7cm;
+}
+
+#btn_reset {
+    background-color: gray;
+    color: white;
+    height: 3cm;
+    width: 7cm;
+}
