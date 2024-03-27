@@ -1,32 +1,18 @@
 h1 {
-    background-color:orange;
-    color: white
+    font-family:'Times New Roman', Times, serif;
+    color: #FF5733;
+    margin-top: 50px;
+    font-style: italic; 
+    font-size: 50px;
+
 }
 
-
-<div id="big-contalner">
-big-contalner {
-    border: 6px solid orange:
+nav {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #FF5733;
+    font-size: 20px;
 }
 
-
-a:link {color: orange;}
-
-a:visited {
-    color: gray;
-}
-
-
-#btn_submit {
-    background-color: orange;
-    color: white;
-    height: 3cm;
-    width: 7cm;
-}
-
-#btn_reset {
-    background-color: gray;
-    color: white;
-    height: 3cm;
-    width: 7cm;
+body {
+    background-color: #BFCCDD;
 }
